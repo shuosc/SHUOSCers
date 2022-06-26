@@ -16,7 +16,8 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 | ---------------------------------------------------------- | -------- | ------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
 | [chinggg](https://github.com/chinggg) | 2019 网安 | 开源招新中 | liuchinggg@gmail.com | https://chinggg.github.io/ |
 | [chasing](https://github.com/chasing1020) | 2019计科 | 摸鱼ing | chasing1020@gmail.com | https://chasing1020.github.io/ |
-| [JamesNULLiu](https://github.com/jamesnulliu) | 2021计科 | cpp 天下第一 | jamesnulliu@outlook.com | https://www.cnblogs.com/jamesnulliu/ |
+| [JamesNULLiu](https://github.com/jamesnulliu) | 2021计科 | cpp 天下第一 | jamesnulliu@outlook.com | https://www.cnblogs.com/jamesnulliu |
+| [id-none](https://github.com/id-none) | 2019网安 | 持续性安全至上，长久制后端开发 | id_none@163.com | https://id-none.github.io/ |
 | [overflow](http://xzalab.top) | 2019计科 | 超算队招新ing | xingzhiang2020@gmail.com | http://xzalab.top |
 
 ## 说明
