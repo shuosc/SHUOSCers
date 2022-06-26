@@ -20,7 +20,7 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 | [JamesNULLiu](https://github.com/jamesnulliu) | 2021计科 | C艹天下第一 | jamesnulliu@outlook.com | https://www.cnblogs.com/jamesnulliu/ |
 | [overflow](http://xzalab.top) | 2019计科 | 超算队招新ing | xingzhiang2020@gmail.com | http://xzalab.top |
 |[Luminolt](https://github.com/LuminolT)|2020网安|不会密码学，带带|copper_sulfate@qq.com|https://luminolt.cn/|
-
+|[PyHuangCs](https://github.com/PyHuangCs)| 2021计科 | 萌新求带带 | 1262300329hpy@gmail.com | https://github.com/PyHuangCs |
 ## 说明
 
 ### 提交
