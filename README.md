@@ -22,6 +22,7 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 |[Luminolt](https://github.com/LuminolT)|2020网安|不会密码学，带带|copper_sulfate@qq.com|https://luminolt.cn/|
 | [zkl](https://github.com/ZKLlab) | 2018 计科 | 啊啊啊搬砖去了 | zkl@zkllab.com | https://github.com/ZKLlab |
 |[PyHuangCs](https://github.com/PyHuangCs)| 2021计科 | 萌新求带带 | 1262300329hpy@gmail.com | https://github.com/PyHuangCs |
+|[JianMo0x](https://github.com/JianMo0x) | 2020计科 | wuwuwu(◍•ᴗ•◍) | 1142111516@gmail.com | https://jianmo0x.github.io |
 ## 说明
 
 ### 提交
