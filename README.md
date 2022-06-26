@@ -19,6 +19,7 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 | [id-none](https://github.com/id-none) | 2019网安 | 持续性安全至上，长久制后端开发 | wan.id.none@gmail.com | https://id-none.github.io/ |
 | [JamesNULLiu](https://github.com/jamesnulliu) | 2021计科 | cpp 天下第一 | jamesnulliu@outlook.com | https://www.cnblogs.com/jamesnulliu/ |
 | [overflow](http://xzalab.top) | 2019计科 | 超算队招新ing | xingzhiang2020@gmail.com | http://xzalab.top |
+|[Luminolt](https://github.com/LuminolT)|2020网安|不会密码学，带带|copper_sulfate@qq.com|https://luminolt.cn/|
 
 ## 说明
 
