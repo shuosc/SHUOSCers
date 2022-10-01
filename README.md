@@ -24,6 +24,7 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 |[PyHuangCs](https://github.com/PyHuangCs)| 2021计科 | 萌新求带带 | 1262300329hpy@gmail.com | https://github.com/PyHuangCs |
 |[JianMo0x](https://github.com/JianMo0x) | 2020计科 | wuwuwu(◍•ᴗ•◍) | 1142111516@gmail.com | https://jianmo0x.github.io |
 |[Lane](https://github.com/LaneGong) | 2020网安 | Web小白带带 | 1332625066@qq.com | https://lanegong.github.io/ |
+|[jxing0831](https://github.com/jxing0831) | 2020_ICS | a Newbie of Math./AI. | jxing0831@sjtu.edu.cn | https://jxing0831.github.io/ |
 ## 说明
 
 ### 提交
