@@ -29,6 +29,7 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 |[monitor137](https://github.com/monitor137)|2020计科|深度学习求带带|2233918322@qq.com|https://github.com/monitor137|
 |[Sadnumber](https://github.com/Sadnumber) | 2021 计科 | 啥都不会呜呜呜 | 18918694350@163.com| https://github.com/Sadnumber |
 |[Errant404](https://github.com/errant) | 2022理工Ⅰ类 | Noob for code | erigidissimus@gmail.com | https://errant404.github.io/ |
+|[ChlorophyllA](https://github.com/ChlorophyllA/) | 2022智科 | 随叫随到的懒鬼 | 2641245772@qq.com | https://github.com/ChlorophyllA/ |
 ## 说明
 
 ### 提交
