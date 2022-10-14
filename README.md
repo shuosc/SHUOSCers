@@ -19,17 +19,18 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 | [id-none](https://github.com/id-none) | 2019网安 | 持续性安全至上，长久制后端开发 | wan.id.none@gmail.com | https://id-none.github.io/ |
 | [JamesNULLiu](https://github.com/jamesnulliu) | 2021计科 | C艹天下第一 | jamesnulliu@outlook.com | https://www.cnblogs.com/jamesnulliu/ |
 | [overflow](http://xzalab.top) | 2019计科 | 超算队招新ing | xingzhiang2020@gmail.com | http://xzalab.top |
-|[Luminolt](https://github.com/LuminolT)|2020网安|不会密码学，带带|copper_sulfate@qq.com|https://luminolt.cn/|
+| [Luminolt](https://github.com/LuminolT)|2020网安|不会密码学，带带|copper_sulfate@qq.com|https://luminolt.cn/|
 | [zkl](https://github.com/ZKLlab) | 2018 计科 | 啊啊啊搬砖去了 | zkl@zkllab.com | https://github.com/ZKLlab |
-|[PyHuangCs](https://github.com/PyHuangCs)| 2021计科 | 萌新求带带 | 1262300329hpy@gmail.com | https://github.com/PyHuangCs |
-|[JianMo0x](https://github.com/JianMo0x) | 2020计科 | wuwuwu(◍•ᴗ•◍) | 1142111516@gmail.com | https://jianmo0x.github.io |
-|[Lane](https://github.com/LaneGong) | 2020网安 | Web小白带带 | 1332625066@qq.com | https://lanegong.github.io/ |
-|[EthanH](https://github.com/EthanH3514) | 2021计科 | acm搬砖ing | 1326414961@qq.com | https://github.com/EthanH3514 |
-|[湃大行](https://github.com/jxing0831) | 2020_ICS | a Newbie of Math./AI. | jxing0831@sjtu.edu.cn | https://jxing0831.github.io/ |
-|[monitor137](https://github.com/monitor137)|2020计科|深度学习求带带|2233918322@qq.com|https://github.com/monitor137|
-|[Sadnumber](https://github.com/Sadnumber) | 2021 计科 | 啥都不会呜呜呜 | 18918694350@163.com| https://github.com/Sadnumber |
-|[Errant404](https://github.com/errant) | 2022理工Ⅰ类 | Noob for code | erigidissimus@gmail.com | https://errant404.github.io/ |
-|[ChlorophyllA](https://github.com/ChlorophyllA/) | 2022智科 | 随叫随到的懒鬼 | 2641245772@qq.com | https://github.com/ChlorophyllA/ |
+| [PyHuangCs](https://github.com/PyHuangCs)| 2021计科 | 萌新求带带 | 1262300329hpy@gmail.com | https://github.com/PyHuangCs |
+| [JianMo0x](https://github.com/JianMo0x) | 2020计科 | wuwuwu(◍•ᴗ•◍) | 1142111516@gmail.com | https://jianmo0x.github.io |
+| [Lane](https://github.com/LaneGong) | 2020网安 | Web小白带带 | 1332625066@qq.com | https://lanegong.github.io/ |
+| [EthanH](https://github.com/EthanH3514) | 2021计科 | acm搬砖ing | 1326414961@qq.com | https://github.com/EthanH3514 |
+| [湃大行](https://github.com/jxing0831) | 2020_ICS | a Newbie of Math./AI. | jxing0831@sjtu.edu.cn | https://jxing0831.github.io/ |
+| [monitor137](https://github.com/monitor137)|2020计科|深度学习求带带|2233918322@qq.com|https://github.com/monitor137|
+| [Sadnumber](https://github.com/Sadnumber) | 2021 计科 | 啥都不会呜呜呜 | 18918694350@163.com| https://github.com/Sadnumber |
+| [Errant404](https://github.com/errant) | 2022理工Ⅰ类 | Noob for code | erigidissimus@gmail.com | https://errant404.github.io/ |
+| [ChlorophyllA](https://github.com/ChlorophyllA/) | 2022智科 | 随叫随到的懒鬼 | 2641245772@qq.com | https://github.com/ChlorophyllA/ |
+| [Kaie](https://github.com/Kai2510) | 2020 力学 | Aeromodeller | li_zhikai@shu.edu.cn |http://zarya.cn/|
 ## 说明
 
 ### 提交
