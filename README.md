@@ -31,6 +31,7 @@ SHUOSC 学生一代接一代，各种群层出不穷，但时间一长便可能�
 | [Errant404](https://github.com/errant) | 2022理工Ⅰ类 | Noob for code | erigidissimus@gmail.com | https://errant404.github.io/ |
 | [ChlorophyllA](https://github.com/ChlorophyllA/) | 2022智科 | 随叫随到的懒鬼 | 2641245772@qq.com | https://github.com/ChlorophyllA/ |
 | [Kaie](https://github.com/Kai2510) | 2020 力学 | Aeromodeller | li_zhikai@shu.edu.cn |http://zarya.cn/|
+| [NopE.](https://github.com/nope-e) | 2026 通信 | 要去学通信了ww | yicheng_jiang@shu.edu.cn | http://blog.ean62.cloud/ |
 ## 说明
 
 ### 提交
